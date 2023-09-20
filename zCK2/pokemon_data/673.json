@@ -1,0 +1,12 @@
+{
+    "id": "673",
+    "type": ["Grass"],
+    "name": "Gogoat",        
+    "baseHP": 123,
+    "baseATK": 100,
+    "baseDEF": 62,
+    "baseSPATK": 97,
+    "baseSPDEF": 81,
+    "baseSPD": 68,
+    "availableMove": ["Earthquake","Leech Seed","Leaf Blade","Bulk Up"]
+}

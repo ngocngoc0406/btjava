@@ -1,0 +1,34 @@
+[
+  {
+    "pkmTypes1": "Fire",
+    "pkmTypes2": "Bug",
+    "DEF": 85,
+    "SPD": 120,
+    "pkmName": "Volcarona",
+    "HP": 160,
+    "type": "Fire",
+    "SPATK": 155,
+    "target": "foe",
+    "name": "Fiery Dance",
+    "ATK": 80,
+    "category": "special",
+    "dmg": 80,
+    "SPDEF": 125
+  },
+  {
+    "pkmTypes1": "Grass",
+    "pkmTypes2": null,
+    "DEF": 82,
+    "SPD": 88,
+    "pkmName": "Gogoat",
+    "HP": 198,
+    "type": "Ground",
+    "SPATK": 117,
+    "target": "foe",
+    "name": "Earthquake",
+    "ATK": 120,
+    "category": "physical",
+    "dmg": 100,
+    "SPDEF": 101
+  }
+]

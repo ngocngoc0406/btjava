@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry kind="src" path="SEM2FINAL-main/QuanLyCuaHang/src"/>
+	<classpathentry kind="lib" path="SEM2FINAL-main/QuanLyCuaHang/dist/lib/jcalendar-1.4.jar"/>
+	<classpathentry kind="lib" path="SEM2FINAL-main/QuanLyCuaHang/dist/lib/mysql-connector-java-8.0.20.jar"/>
+	<classpathentry kind="lib" path="SEM2FINAL-main/QuanLyCuaHang/dist/QuanLyCuaHang.jar"/>
+	<classpathentry kind="lib" path="SEM2FINAL-main/QuanLyCuaHang/libraries/jcalendar-1.4.jar"/>
+	<classpathentry kind="lib" path="SEM2FINAL-main/QuanLyCuaHang/libraries/mysql-connector-java-8.0.20.jar"/>
+	<classpathentry kind="output" path="SEM2FINAL-main/QuanLyCuaHang/build/classes"/>
+</classpath>

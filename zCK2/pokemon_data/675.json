@@ -1,0 +1,12 @@
+{
+    "id": "675",
+    "name": "Pangoro",
+    "type": ["Fighting","Dark"],
+    "baseHP": 95,
+    "baseATK": 124,
+    "baseDEF": 78,
+    "baseSPATK": 69,
+    "baseSPDEF": 71,
+    "baseSPD": 58,
+    "availableMove": ["Hammer Arm","Bite","Night Slash","Bullet Punch"]
+}

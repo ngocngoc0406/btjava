@@ -1,0 +1,12 @@
+{
+    "type": "Ice",
+    "target": "foe",
+    "category": "special",
+    "name": "Blizzard",
+    "dmg": 110,
+    "hitChance": 100,
+    "critChance": 1,
+    "subEffect": [],
+    "effectRate": 1
+  }
+  

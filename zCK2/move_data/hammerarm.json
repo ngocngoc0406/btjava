@@ -1,0 +1,12 @@
+{
+    "type": "fighting",
+    "target": "foe",
+    "category": "physical",
+    "name": "hammer Arm",
+    "dmg": 110,
+    "hitChance": 100,
+    "critChance": 1,
+    "subEffect": [],
+    "effectRate": 1
+  }
+  

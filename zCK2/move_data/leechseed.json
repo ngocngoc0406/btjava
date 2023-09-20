@@ -1,0 +1,10 @@
+{
+  "type": "Grass",
+  "target": "foe",
+  "category": "effect",
+  "name": "Leech Seed",
+  "dmg": 0,
+  "hitChance": 100,
+  "critChance": 0,
+  "subEffect": []
+}

@@ -1,0 +1,12 @@
+{
+    "type": "steel",
+    "target": "foe",
+    "category": "physical",
+    "name": "Bullet Punch",
+    "dmg": 40,
+    "hitChance": 100,
+    "critChance": 1,
+    "subEffect": [],
+    "effectRate": 1
+  }
+  

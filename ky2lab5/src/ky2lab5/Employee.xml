@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Employees>
+     <Employee ID="1">
+          <Firstname>Trung</Firstname >
+          <Lastname>Nguyen</Lastname>
+          <Age>30</Age>
+          <Salary>600</Salary>
+     </Employee>
+     <Employee ID="2">
+          <Firstname>Tam</Firstname>
+          <Lastname>Le</Lastname>
+          <Age>22</Age>
+          <Salary>650</Salary>
+     </Employee>
+     <Employee ID="3">
+          <Firstname>Trang</Firstname>
+          <Lastname>Ly</Lastname>
+          <Age>24</Age>
+          <Salary>650</Salary>
+     </Employee>
+     <Employee ID="4">
+          <Firstname>Binh</Firstname>
+          <Lastname>Tran</Lastname>
+          <Age>25</Age>
+          <Salary>800</Salary>
+     </Employee>
+</Employees>

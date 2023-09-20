@@ -1,0 +1,12 @@
+{
+    "id": "131",
+    "name": "Lapras",
+    "type": ["Water","Ice"],
+    "baseHP": 130,
+    "baseATK": 85,
+    "baseDEF": 80,
+    "baseSPATK": 85,
+    "baseSPDEF": 95,
+    "baseSPD": 60,
+    "availableMove": ["Hydro Pump","Blizzard","Thunder Bolt","Psychic"]
+}

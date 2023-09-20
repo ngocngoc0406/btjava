@@ -1,0 +1,10 @@
+{
+  "type": "Ground",
+  "target": "foe",
+  "category": "physical",
+  "name": "Earthquake",
+  "dmg": 100,
+  "hitChance": 100,
+  "critChance": 1,
+  "subEffect": []
+}

@@ -1,0 +1,12 @@
+{
+    "type": "bug",
+    "target": "foe",
+    "category": "physical",
+    "name": "Leech Life",
+    "dmg": 70,
+    "hitChance": 100,
+    "critChance": 1,
+    "subEffect": [],
+    "effectRate": 1
+  }
+  

@@ -1,0 +1,12 @@
+{
+    "type": "Bug",
+    "target": "foe",
+    "category": "special",
+    "name": "Bug Buzz",
+    "dmg": 90,
+    "hitChance": 100,
+    "critChance": 1,
+    "subEffect": [10],
+    "effectRate": 1
+  }
+  

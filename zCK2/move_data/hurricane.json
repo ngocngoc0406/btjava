@@ -1,0 +1,12 @@
+{
+    "type": "Flying",
+    "target": "foe",
+    "category": "special",
+    "name": "Hurricane",
+    "dmg": 110,
+    "hitChance": 70,
+    "critChance": 1,
+    "subEffect": [0],
+    "effectRate": 1
+}
+  

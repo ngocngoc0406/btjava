@@ -1,0 +1,12 @@
+{
+    "type": "poison",
+    "target": "foe",
+    "category": "physical",
+    "name": "Cross Poison",
+    "dmg": 70,
+    "hitChance": 100,
+    "critChance": 1,
+    "subEffect": [],
+    "effectRate": 1
+  }
+  

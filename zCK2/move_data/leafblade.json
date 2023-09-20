@@ -1,0 +1,10 @@
+{
+  "type": "Grass",
+  "target": "foe",
+  "category": "physical",
+  "name": "Leaf Blade",
+  "dmg": 90,
+  "hitChance": 100,
+  "critChance": 3,
+  "subEffect": []
+}

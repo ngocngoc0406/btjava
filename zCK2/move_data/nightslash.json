@@ -1,0 +1,12 @@
+{
+    "type": "dark",
+    "target": "foe",
+    "category": "physical",
+    "name": "Night Slash",
+    "dmg": 70,
+    "hitChance": 100,
+    "critChance": 1,
+    "subEffect": [],
+    "effectRate": 1
+  }
+  

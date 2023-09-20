@@ -1,0 +1,12 @@
+{
+    "type": "Electric",
+    "target": "foe",
+    "category": "special",
+    "name": "Thunder Bolt",
+    "dmg": 90,
+    "hitChance": 100,
+    "critChance": 1,
+    "subEffect": [],
+    "effectRate": 1
+  }
+  

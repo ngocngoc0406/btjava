@@ -1,0 +1,12 @@
+{
+    "type": "Dark",
+    "target": "foe",
+    "category": "physical",
+    "name": "Bite",
+    "dmg": 70,
+    "hitChance": 100,
+    "critChance": 1,
+    "subEffect": [],
+    "effectRate": 1
+  }
+  

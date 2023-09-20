@@ -1,0 +1,12 @@
+{
+    "type": "Fighting",
+    "target": "self",
+    "category": "effect",
+    "name": "Bulk Up",
+    "dmg": 0,
+    "hitChance": 100,
+    "critChance": 0,
+    "subEffect": [8,9],
+    "effectRate": 10
+  }
+  

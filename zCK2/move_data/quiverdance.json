@@ -1,0 +1,12 @@
+{
+    "type": "Bug",
+    "target": "self",
+    "category": "effect",
+    "name": "Quiver Dance",
+    "dmg": 0,
+    "hitChance": 100,
+    "critChance": 0,
+    "subEffect": [10, 11],
+    "effectRate": 10
+  }
+  

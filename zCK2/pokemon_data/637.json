@@ -1,0 +1,12 @@
+{
+    "id": "637",
+    "name": "Volcarona",
+    "type": ["Fire","Bug"],
+    "baseHP": 85,
+    "baseATK": 60,
+    "baseDEF": 65,
+    "baseSPATK": 135,
+    "baseSPDEF": 105,
+    "baseSPD": 100,
+    "availableMove": ["Fiery Dance","Quiver Dance","Bug Buzz","Hurricane"]
+}
